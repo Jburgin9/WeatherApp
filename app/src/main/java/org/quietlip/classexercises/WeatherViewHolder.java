@@ -16,6 +16,7 @@ public class WeatherViewHolder extends RecyclerView.ViewHolder {
     private Switch celsiusSwitch;
     private double highCelsius = 0;
     private double lowCelsius = 0;
+    private String high = "High ";
     private PeriodsResponse periodsResponse;
 
 
