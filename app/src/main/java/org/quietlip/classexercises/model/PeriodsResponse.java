@@ -2,18 +2,18 @@ package org.quietlip.classexercises.model;
 
 public class PeriodsResponse {
     private String dateTimeISO;
-    private int minTempF;
-    private int maxTempF;
+    private String minTempF;
+    private String maxTempF;
 
     public String getDateTimeISO() {
         return dateTimeISO;
     }
 
-    public int getMinTempF() {
+    public String getMinTempF() {
         return minTempF;
     }
 
-    public int getMaxTempF() {
+    public String getMaxTempF() {
         return maxTempF;
     }
 }

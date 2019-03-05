@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">ClassExercises</string>
-    <string name="show_farenheit">SHOW FARENHEIT</string>
+    <string name="show_fahrenheit">SHOW FAHRENHEIT</string>
+    <string name="celsius">Celsius</string>
 </resources>
